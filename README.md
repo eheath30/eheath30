@@ -20,7 +20,7 @@ Feel free to clone or fork any of my projects and create pull requests if you ad
 <i>Follow me around the web:</i><br>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/elliot-heath-51094b231/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/elliot.heath/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
+  <a target="_blank" href="https://www.instagram.com/elliot.heath/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ● -->
 
 <a href="https://www.linkedin.com/in/elliot-heath-51094b231" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/elliot.heath" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -32,8 +32,7 @@ Feel free to clone or fork any of my projects and create pull requests if you ad
 <!--
 **eheath30 Readme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on the trello styled todo-tabs project and updating various projects both on and off github
 - 🌱 I’m currently studying Javascript, Reactjs & Typescript
 - 👯 I’m looking to collaborate on anything js, ts and reactjs based
@@ -41,5 +40,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about js, ts, html, css, reactjs and life in general
 - 📫 How to reach me: here or on linkedin
 - ⚡ Fun fact: I'm a late coder, I wrote my first lines of code at the age of 30!
--->
 
