@@ -19,7 +19,7 @@ Feel free to clone or fork any of my projects and create pull requests if you ad
 
 <i>Follow me around the web:</i><br>
 
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/elliot-heath-51094b231/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  <!-- <a target="_blank" href="https://www.linkedin.com/in/elliot-heath/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/elliot.heath/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ● -->
 
 <a href="https://www.linkedin.com/in/elliot-heath-51094b231" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
