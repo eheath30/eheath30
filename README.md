@@ -33,11 +33,10 @@ Feel free to clone or fork any of my projects and create pull requests if you ad
 **eheath30 Readme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-- 🔭 I’m currently working on the trello styled todo-tabs project and updating various projects both on and off github
-- 🌱 I’m currently studying Javascript, Reactjs & Typescript
+- 🔭 I’m currently working on still_meditation & updating various projects both on and off github
+- 🌱 I’m currently studying Javascript, Reactjs, Typescript & more
 - 👯 I’m looking to collaborate on anything js, ts and reactjs based
-- 🤔 I’m looking for help with learning full-stack web development using typescript and reactjs front-end along with python and node servers.
+- 🤔 I’m looking for help with learning full-stack web development using typescript and reactjs front-end along with python and node servers
 - 💬 Ask me about js, ts, html, css, reactjs and life in general
 - 📫 How to reach me: here or on linkedin
-- ⚡ Fun fact: I'm a late coder, I wrote my first lines of code at the age of 30!
 
